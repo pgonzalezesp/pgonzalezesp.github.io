@@ -2,7 +2,7 @@
 layout: page
 title: My website
 subtitle: Coral reef ecologist
-bigimg:  pgonzaleze.github.io/img/Betsabe_corales2.jpg 
+bigimg:   pgonzaleze.github.io/img/Psammocora-min.jpg 
 use-site-title: true
 ---
 
