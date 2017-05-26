@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My non-scientific!
-subtitle: Having fun!
+title: Having fun!
+subtitle: While not working
 show-avatar: false
 ---
 
