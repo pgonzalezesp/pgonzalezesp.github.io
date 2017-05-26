@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: Coral reef ecologist
+title: Hi! This is Pedro!
+subtitle: Marine Biologist / Coral reef ecologist / Naturalist
 bigimg:  
   - "/img/Psammocora-min.jpg" : "Psammocora stellata"
   - "/img/Betsabe_corales2.jpg" : "Cabo Pulmo, BCS. Cred: Bestabé Luna"
