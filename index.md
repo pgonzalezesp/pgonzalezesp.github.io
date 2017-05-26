@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi! This is Pedro!
+title: Hi, This is Pedro!
 subtitle: Marine Biologist / Coral reef ecologist / Naturalist
 bigimg:  
   - "/img/Psammocora-min.jpg" : "Psammocora stellata"
