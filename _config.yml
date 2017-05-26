@@ -46,7 +46,7 @@ author:
   email: "bm.pedro.gonzalez@hotmail.com.com"
   facebook: yourname  # eg. daattali
   github: pgonzaleze    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: pcgonzaleze   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: pedro-cuauhtémoc-gonzález-espinosa-2a74056a  # eg. daattali
@@ -63,7 +63,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
@@ -78,7 +78,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   google: false
   linkedin: true
