@@ -5,7 +5,7 @@ subtitle: While not working
 show-avatar: false
 ---
 ## Harvesting
-![alt text](/img/pea.jpg) 
+![pea](/img/pea.jpg) 
 
 
 
