@@ -5,7 +5,7 @@ subtitle: Marine Biologist / Coral reef ecologist / Naturalist
 bigimg:  
   - "/img/Psammocora-min.jpg" : "Psammocora stellata"
   - "/img/Betsabe_corales2.jpg" : "Cabo Pulmo, BCS. Cred: Bestabé Luna"
-  - "/img/Betsabe_corales.jpg"  : "Cabo Pulmo, Mexico. Cred: Betsabé Luna" 
+  - "/img/Betsabe_corales.jpg"  : "Cabo Pulmo, México. Cred: Betsabé Luna" 
 use-site-title: true
 ---
 
