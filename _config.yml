@@ -25,6 +25,7 @@ description: my website
 navbar-links:
   Personal: "aboutme"
   Research: "research"
+  My non-scientist: "stuff"
   Contact: "contact"
     
   
