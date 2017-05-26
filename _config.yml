@@ -23,6 +23,7 @@ description: my website
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://pgonzaleze.github.io/"
   Personal: "aboutme"
   Research: "research"
   My non-scientist: "stuff"
