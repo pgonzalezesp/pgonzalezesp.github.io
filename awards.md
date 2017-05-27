@@ -1,6 +1,7 @@
 ---
 title: Fellowships and Awards
 subtitle: Being rewarded for doing what you like!
+show-avatar: false
 ---
 
 • 2016-2020 International PhD fellow of the National Council of Science and Technology CONACYT, México
