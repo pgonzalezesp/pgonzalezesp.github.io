@@ -23,7 +23,7 @@ description: my website
 
 # List of links in the navigation bar
 navbar-links:
-  Personal: "aboutme"
+  Personal: 
     - About me: "aboutme"
   Research: "research"
   My non-scientist: "stuff"
