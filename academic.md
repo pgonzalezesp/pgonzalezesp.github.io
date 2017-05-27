@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic and other training
+title: Academic
 subtitle: Always learning!
 bigimg:  
  - "/img/UBC.jpg" : "The University of British Columbia"
