@@ -23,8 +23,7 @@ Projects:
 * Science Teacher and Lab Assistant at St. Johns private school, La Paz, BCS. 2013-2016.
 * Geography Teacher at St. Johns private school, La Paz. BCS. 2015-2016.
 
-##
-* Free-lance consultor and partner at Mares y Costas S.C. La Paz BCS. 2010-2016
+## Free-lance consultor and partner at Mares y Costas S.C. 
 
 ## Volunteer:
 * Aquaculture nutrition laboratory at CIBNOR working with aquaponics of tilapia and aromatic herbs 2013.
