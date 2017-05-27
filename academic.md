@@ -7,7 +7,7 @@ show-avatar: false
 ## PhD (current student)
 University of British Columbia
 
-## MsC in Natural Resources Management
+## MSc in Natural Resources Management
 Centro de Investigaciones Biológicas del Noroeste (CIBNOR)
 
 ## Bachelor in Marine Biology
