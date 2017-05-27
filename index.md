@@ -8,7 +8,7 @@ bigimg:
   - "/img/Betsabe_corales.jpg"  : "Cabo Pulmo, México. Betsabé Luna" 
   - "/img/Pavona_gigantea.JPG" : "Pavona gigantea, BCS, Mex. Israel Sanchez"
   - "/img/Pavona_gigantea2.JPG" : "Pavona gigantea, Gulf of California. Israel Sanchez"
-  - "/img/BCO_43_220616MEB_03_traits.jpg " : "Porites panamensis, Gulf of California. Pedro González" 
+  - "/img/BCO_43_220616MEB_03_traits.jpg " : "Corallites skeleton of Porites panamensis, Gulf of California. Pedro González" 
 use-site-title: true
 ---
 
