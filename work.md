@@ -5,7 +5,7 @@ show-avatar: false
 ---
 
 ## Research assistant 
-Benthos and Nekton Ecology Laboratory from North Western Biological Research Center (CIBNOR) from 2012-2015.
+Benthos and Nekton Ecology Laboratory from North Western Biological Research Center (CIBNOR) from 2012-2015.   
 Project:
 * "Effect of ocean acidification on the reefs of the Mexican Pacific, genetic landscape, climate reconstruction and coral growth" CB-CONACYT, La Paz, México.
 Reef system laboratory of Autonomous University of Baja California Sur. (UABCS) from 2007-2012.  
