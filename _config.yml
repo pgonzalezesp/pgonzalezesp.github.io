@@ -24,6 +24,7 @@ description: my website
 # List of links in the navigation bar
 navbar-links:
   Personal: "aboutme"
+   - Learn markdown: "http://www.markdowntutorial.com/"
   Research: "research"
   My non-scientist: "stuff"
   Contact: "contact"
