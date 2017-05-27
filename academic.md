@@ -2,7 +2,10 @@
 layout: page
 title: Academic
 subtitle: Always learning!
-bigimg:  "/img/UBC.jpg"
+bigimg:  
+ - "/img/UBC.jpg"
+ - "/img/CIBNOR.jpg"
+ - "/img/UABCS.png"
 show-avatar: false
 ---
 
