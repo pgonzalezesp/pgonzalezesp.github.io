@@ -1,6 +1,6 @@
 ---
 title: Fellowships and Awards
-subtitle: Being rewarded for doing what you like!
+subtitle: Being rewarded for doing what I like!
 show-avatar: false
 ---
 
