@@ -8,6 +8,7 @@ show-avatar: false
 Benthos and Nekton Ecology Laboratory from North Western Biological Research Center (CIBNOR) from 2012-2015.   
 Project:
 * "Effect of ocean acidification on the reefs of the Mexican Pacific, genetic landscape, climate reconstruction and coral growth" CB-CONACYT, La Paz, México.   
+
 Reef system laboratory of Autonomous University of Baja California Sur. (UABCS) from 2007-2012.  
 Projects:
 * "Potential distribution of coral reefs on the Mexican Pacific and their vulnerability to climate change", SEMARNAT-CONACYT. La Paz, México.
