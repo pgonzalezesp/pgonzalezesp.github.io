@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Academic
 subtitle: Always learning!
+bigimg:  "/img/UBC.jpg"
 show-avatar: false
 ---
 
