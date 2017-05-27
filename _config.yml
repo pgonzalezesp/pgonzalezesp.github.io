@@ -23,8 +23,12 @@ description: my website
 
 # List of links in the navigation bar
 navbar-links:
-  Personal: 
-    - About me: "aboutme"
+  About me: 
+    - Personal: "aboutme"
+    - Academic: "academic"
+    - Work experience: "work"
+    - Felowships and awards: "awards"
+    - CV: "CV.pdf"
   Research: "research"
   My non-scientist: "stuff"
   Contact: "contact"
