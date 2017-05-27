@@ -3,9 +3,9 @@ layout: page
 title: Academic
 subtitle: Always learning!
 bigimg:  
- - "/img/UBC.jpg"
- - "/img/CIBNOR.jpg"
- - "/img/UABCS.png"
+ - "/img/UBC.jpg" : "The University of British Columbia"
+ - "/img/CIBNOR.jpg" : "Centro de Investigaciones Biológicas del Noroeste" 
+ - "/img/UABCS.png" : "Universidad Autónoma de Baja California Sur"
 show-avatar: false
 ---
 
