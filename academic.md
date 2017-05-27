@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic
+title: Academic and other training
 subtitle: Always learning!
 bigimg:  
  - "/img/UBC.jpg" : "The University of British Columbia"
@@ -9,7 +9,7 @@ bigimg:
 show-avatar: false
 ---
 
-## PhD (current student)
+## PhD Geography (2016-2020)
 University of British Columbia
 
 ## MSc in Natural Resources Management
@@ -17,3 +17,4 @@ Centro de Investigaciones Biológicas del Noroeste (CIBNOR)
 
 ## Bachelor in Marine Biology
 Univeridad Autónoma de Baja California Sur 
+
