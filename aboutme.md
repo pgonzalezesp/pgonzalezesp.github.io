@@ -17,5 +17,4 @@ I am currently doing my PhD at the Coastal and Climate Ecosystem Lab of the Univ
 
 You are welcome to visit my entire page! 
 
-Thank you!
 
