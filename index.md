@@ -12,5 +12,6 @@ bigimg:
 use-site-title: true
 ---
 
-### The sea is only the embodiment of a supernatural and wonderful existence.   Jules Verne
+### The sea is only the embodiment of a supernatural and wonderful existence.   
+ > Jules Verne
 
