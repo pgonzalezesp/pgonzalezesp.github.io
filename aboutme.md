@@ -7,7 +7,7 @@ show-avatar: false
 
 ## Have you ever describe yourself? Yes, it is a tough one!
 
-I was born in the majestic Mexico City, I raised in by one of the purest urban environments you can imagine. Just there I decided to turn my life and start giving my first scientific steps far away home. 
+I was born in the majestic Mexico City, I grew up by one of the purest urban environments you can imagine. Just there I decided to turn my life and start giving my first scientific steps far away home. 
 
 I moved to La Paz BCS to study marine biology at my alma mater the Universidad Autonoma de Baja California Sur. I joined the Reef Systems Lab, led by Dr Reyes-Bonilla (Héctor), where I aimed to study the Trapezia crab, that lives between the corals, but circumstantially, an unusual coral bleaching event hit the reefs caught my attention and I described it in my thesis dissertation.
 
