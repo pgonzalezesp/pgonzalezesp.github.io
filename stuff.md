@@ -10,6 +10,7 @@ show-avatar: false
 - I love to go cycling to the University enjoying the outstanding landscapes of Vancouver. If it´s raining I like to ride the bus and read a book. 
 - I like to travel, especially in the country-side, know new places and people!
 - I exercise my neurons learning Dutch, so far I know arround 800 words, Goed zo!
+- It fascinates me cooking, if it is from the garden to the table much better! My favourite dish is chilaquiles with "tatemada" charred sauce.
 - I play the diatonic harmonica! 
 
 
