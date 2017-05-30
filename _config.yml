@@ -17,13 +17,13 @@ baseurl: ""
 title: Mi sitio
 
 # Short description of your site
-description: !m
+description: Pedro C. Gonzalez-Espinosa
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Acerca de mi: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
