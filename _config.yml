@@ -30,8 +30,8 @@ navbar-links:
     - Felowships and awards: "awards"
     - CV: "pgonzalezCV.pdf"
   Research: 
-    -Research interest: "research"
-    -Conferences and presentations: "congress"
+    - Research interest: "research"
+    - Conferences and presentations: "congress"
   My non-scientist: "stuff"
   Contact: "contact"
   Home: "https://pgonzaleze.github.io/"
