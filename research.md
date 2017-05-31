@@ -17,7 +17,7 @@ My current research is focused on analysing the past, to understand how coral re
 
 ## Areas of expertise 
  * Remote sensing on coral reefs 
- * Multiple stressors 
+ * Multiple stressors  
  * Sustainability and management
 
 ## Programming languages used
