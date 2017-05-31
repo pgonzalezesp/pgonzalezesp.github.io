@@ -1,6 +1,6 @@
 ---
-title: It´s part of the job
-subtitle: Expanding the network!
+title: Expanding the network!
+subtitle: It´s part of the job
 show-avatar: false
 ---
 
