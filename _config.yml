@@ -31,7 +31,7 @@ navbar-links:
     - CV: "pgonzalezCV.pdf"
   Research: 
     - Research interest: "research"
-    - Conferences and presentations: "congress"
+    - Conferences: "congress"
   My non-scientist: "stuff"
   Contact: "contact"
   Home: "https://pgonzaleze.github.io/"
