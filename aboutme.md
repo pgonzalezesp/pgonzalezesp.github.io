@@ -11,7 +11,7 @@ I was born in the majestic Mexico City, I grew up in one of the most purest urba
 
 I moved to La Paz BCS to study marine biology at my _alma mater_, the Universidad Autonoma de Baja California Sur. I joined the Reef Systems Lab, led by Dr. Reyes-Bonilla (Héctor). Here I aimed to study the _Trapezia_ crab, that lives between the corals, but circumstantially, an unusual coral bleaching event that hit the reefs caught my attention, so I described it in my thesis dissertation.
 
-I decided to further my studies doing more related reef stuff, so I entered the graduate program at Centro de Investigaciones Biologicas del Noroeste. I was fellow at the Nekton and Reef Ecology Lab, led by Dr Balart-Paez, where I analysed the skeletal traits of the emerald coral, _Porites panamensis_. For the first time finding a sex-related dimorphism, in corals, and a possible environmental interference. 
+I decided to further my studies doing more related reef stuff, so I entered the graduate program at Centro de Investigaciones Biologicas del Noroeste. I was fellow at the Nekton and Reef Ecology Lab, led by Dr Balart-Páez, where I analysed the skeletal traits of the emerald coral, _Porites panamensis_. For the first time finding a sex-related dimorphism, in corals, and a possible environmental interference. 
 
 I am currently doing my PhD at the Coastal and Climate Ecosystem Lab of the University of British Columbia where I have the honour to be guided by Dr. Donner (Simon), and where I am aiming to develop an algorithm that helps to understand past events and predict the future ones for reef ecosystems. 
 
