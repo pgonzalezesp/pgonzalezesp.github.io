@@ -1,6 +1,7 @@
 ---
-title: Conferences and presentations
+title: It´s part of the work
 subtitle: Expanding the network!
+show-avatar: false
 ---
 
 ## National
