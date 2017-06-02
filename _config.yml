@@ -27,10 +27,10 @@ navbar-links:
     - Personal: "aboutme"
     - Academico: "academic"
     - Experiencia laboral: "work"
-    - Becas y reconocimientos: "awards"
+    - Becas: "awards"
     - CV: "pgonzalezCVesp.pdf"
   Investigación: 
-    - Interes de investigación: "research"
+    - Interes: "research"
     - Conferencias: "congress"
   Mi No-científico: "stuff"
   Contacto: "contact"
