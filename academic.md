@@ -10,7 +10,7 @@ show-avatar: false
 ---
 
 ## PhD Geography (2016-2020)
-[University of British Columbia](www.ubc.ca)
+[University of British Columbia](https://www.ubc.ca/)
 
 ## MSc in Natural Resources Management
 [Centro de Investigaciones Biológicas del Noroeste (CIBNOR)](https://cibnor.mx/en/)
