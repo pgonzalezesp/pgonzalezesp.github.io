@@ -5,5 +5,5 @@ subtitle: Biólogo Marino / Ecología de Arrecifes Coralinos / Naturalista
 use-site-title: true
 ---
 
-### "Necesito del mar porque me enseña. No sé si aprendo música o conciencia. No sé si es ola sola o ser profundo”
+### "Necesito del mar porque me enseña. No sé si aprendo música o conciencia. No sé si es ola sola o ser profundo"
  > Pablo Neruda
