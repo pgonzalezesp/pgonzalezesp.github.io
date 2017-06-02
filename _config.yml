@@ -23,17 +23,17 @@ description: my website
 
 # List of links in the navigation bar
 navbar-links:
-  About me: 
+  Acerca de mi: 
     - Personal: "aboutme"
-    - Academic: "academic"
-    - Work experience: "work"
-    - Felowships and awards: "awards"
+    - Academico: "academic"
+    - Experiencia laboral: "work"
+    - Becas y reconocimientos: "awards"
     - CV: "pgonzalezCVesp.pdf"
-  Research: 
-    - Research interest: "research"
-    - Conferences: "congress"
-  My non-scientist: "stuff"
-  Contact: "contact"
+  Investigación: 
+    - Interes de investigación: "research"
+    - Conferencias: "congress"
+  Mi yo no-científico: "stuff"
+  Contacto: "contact"
   English: "https://pgonzaleze.github.io/"
     
   
