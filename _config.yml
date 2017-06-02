@@ -23,7 +23,7 @@ description: my website
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca de mi: 
+  Yo: 
     - Personal: "aboutme"
     - Academico: "academic"
     - Experiencia laboral: "work"
@@ -32,7 +32,7 @@ navbar-links:
   Investigación: 
     - Interes de investigación: "research"
     - Conferencias: "congress"
-  Mi yo no-científico: "stuff"
+  Mi No-científico: "stuff"
   Contacto: "contact"
   English: "https://pgonzaleze.github.io/"
     
