@@ -16,5 +16,5 @@ show-avatar: false
 [Centro de Investigaciones Biológicas del Noroeste (CIBNOR)](https://cibnor.mx/en/)
 
 ## Bachelor in Marine Biology
-[Univeridad Autónoma de Baja California Sur](http://uabcs.mx/inicio) 
+[Universidad Autónoma de Baja California Sur](http://uabcs.mx/inicio) 
 
