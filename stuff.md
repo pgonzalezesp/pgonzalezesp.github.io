@@ -9,8 +9,8 @@ show-avatar: false
 - When I am not doing science I like to spend some time with my wife Tessa and toddler son, and our pets, Kush, Athena and Lola (in Mexico City with la Abuela), drink a cold booze and harvest some veggies!
 - I love to go cycling to the University enjoying the outstanding landscapes of Vancouver. If it´s raining I like to ride the bus and read a book. 
 - I like to travel, especially in the countryside, know new places and people!
-- I exercise my neurones learning Dutch, so far I know around 800 words, Goed zo!
-- It fascinates me cooking if it is from the garden to the table much better! My favourite dish is chilaquiles with "tatemada" charred sauce.
+- I exercise my neurones by learning Dutch, so far I know around 800 words, Goed zo!
+- Cooking fascinates me, from the garden to the table even better! My favourite dish is Chilaquiles with "tatemada" charred sauce.
 - I play the diatonic harmonica! 
 
 
