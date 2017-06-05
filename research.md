@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Research interest
@@ -10,7 +11,7 @@ bigimg:
   - "/img/Bla_54_220616MEB_01.jpg" : "Corallite skeleton of Porites panamensis, Bahía Concepción, BCS. Pedro González"
 ---
 ## Main 
-My interest is centered in the study of the relationship between the distinct environmental factors with the stability of marine ecosystems, using remote sensing as the major tool.
+My interest is centred in the study of the relationship between the distinct environmental factors with the stability of marine ecosystems, using remote sensing as the major tool.
 
 ## Ongoing
 My current research is focused on analysing the past, to understand how coral reef ecosystems have been able to cope with the environmental variability to which they have been exposed. And thus enabling, through numerical models, to predict their future fate.
@@ -23,3 +24,5 @@ My current research is focused on analysing the past, to understand how coral re
 ## Programming languages used
  * R
  * Python
+
+
