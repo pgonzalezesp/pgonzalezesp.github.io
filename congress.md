@@ -5,7 +5,7 @@ show-avatar: false
 ---
 
 ## National
- * XIV Postgraduate week Congress. La Paz B.C.S, México. 2015. “Sexual dimorphism at corallite level of the scleractinian coral Porites panamensis in the Gulf of California”. 
+ * XIV Postgraduate Congress. La Paz B.C.S, México. 2015. “Sexual dimorphism at corallite level of the scleractinian coral Porites panamensis in the Gulf of California”. 
 
 ## International 
  * XIII Latin American Congress of marine sciences COLACMAR-CUBA Habana, Cuba. 2009. “Cold coral bleaching in the south-west of Gulf of California, México” 
