@@ -4,7 +4,7 @@ title: ¡En construcción!
 subtitle: Biólogo Marino / Ecología de Arrecifes Coralinos / Naturalista
 bigimg: 
  - /img/Porites.JPG : Porites sp. Golfo de California. Israel Sánchez. 
- - /img/CaboPulmo_team.jpg  : Muestreo en Cabo Pulmo, BCS. Israel Sánchez. 
+ - /img/CaboPulmo_team.jpg  : Lutjanus viridis, Cabo Pulmo, BCS. Israel Sánchez. 
 use-site-title: true
 ---
 
