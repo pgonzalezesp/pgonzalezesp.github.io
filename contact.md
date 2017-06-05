@@ -4,7 +4,7 @@ subtitle: Here you'll find all the ways to get in touch with me
 show-avatar: false
 ---
 
-### In this globalised world, there are many ways to be in contact, you can click on over the links below or:
+### In this globalised world, there are many ways to be in contact, you can click on the links below or:
 
 * E-mail me to bm.pedro.gonzalez@hotmail.com
 * Visit me at Geo-building at Climate and Coastal Ecosystem Laboratory room 210 
