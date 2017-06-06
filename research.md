@@ -20,9 +20,9 @@ Mi investigación actual está enfocada en analizar el pasado, para comprender c
 
 ## Áreas de especialización
 
-     Sensores remotos en los arrecifes de coral
-     Estrés ambiental  
-     Sostenibilidad y gestión
+ * Sensores remotos en los arrecifes de coral
+ * Estrés ambiental  
+ * Sostenibilidad y gestión
 
 ## Lenguajes de programación utilizados
 
