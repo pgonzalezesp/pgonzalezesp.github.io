@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Pedro C. Gonzalez-Espinosa!
+title: ¡Esta es mi página!
 subtitle: Biólogo Marino / Ecología de Arrecifes Coralinos / Naturalista
 bigimg: 
  - /img/Porites.JPG : Porites sp. Golfo de California. Israel Sánchez. 
