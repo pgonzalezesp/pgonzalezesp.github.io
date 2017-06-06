@@ -16,7 +16,7 @@ Mi interés se centra en el estudio de la relación entre los distintos factores
 
 ## Actual
 
-Mi investigación actual está enfocada en analizar el pasado, para comprender cómo los ecosistemas de arrecifes de coral han sido capaces de hacer frente a la variabilidad ambiental a la que han estado expuestos. Permitiendo así, a través de modelos numéricos, predecir su destino futuro.
+Mi investigación actual está enfocada en analizar el pasado, para comprender cómo los ecosistemas de arrecifes de coral han sido capaces de hacer frente a la variabilidad ambiental a la que han estado expuestos. Permitiendo así, a través de modelos numéricos, predecir su destino.
 
 ## Áreas de especialización
 
