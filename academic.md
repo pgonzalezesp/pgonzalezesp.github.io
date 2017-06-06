@@ -3,9 +3,9 @@ layout: page
 title: Educación
 subtitle: ¡Sitios dende me he formado académicamente!
 bigimg:  
- - "/img/UBC.jpg" : "The University of British Columbia"
- - "/img/CIBNOR.jpg" : "Centro de Investigaciones Biológicas del Noroeste" 
- - "/img/UABCS.png" : "Universidad Autónoma de Baja California Sur"
+ - "/img/UBC2.png" : "The University of British Columbia"
+ - "/img/CIBNOR2.jpg" : "Centro de Investigaciones Biológicas del Noroeste" 
+ - "/img/UABCS2.png" : "Universidad Autónoma de Baja California Sur"
 show-avatar: false
 ---
 
