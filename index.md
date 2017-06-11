@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, This is Pedro!
-subtitle: Marine Biologist / Coral reef ecologist / Naturalist
+subtitle: Marine Biologist / Coral Reef Ecologist / Naturalist
 bigimg:  
   - "/img/Psammocora.jpg" : "Psammocora stellata, Gulf of California. Israel Sanchez"
   - "/img/Betsabe_corales2.jpg" : "Cabo Pulmo, BCS. Bestabé Luna"
