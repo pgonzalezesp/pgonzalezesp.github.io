@@ -15,6 +15,6 @@ show-avatar: false
 ## MSc in Natural Resources Management
 [Centro de Investigaciones Biológicas del Noroeste (CIBNOR)](https://cibnor.mx/en/)
 
-## Bachelor in Marine Biology
+## BSc in Marine Biology
 [Universidad Autónoma de Baja California Sur](http://uabcs.mx/inicio) 
 
