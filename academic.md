@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Educación
-subtitle: ¡Sitios dende me he formado académicamente!
+subtitle: ¡Sitios donde me he formado académicamente!
 bigimg:  
  - "/img/UBC2.jpg" : "The University of British Columbia"
  - "/img/CIBNOR2.jpg" : "Centro de Investigaciones Biológicas del Noroeste" 
