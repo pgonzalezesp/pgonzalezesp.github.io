@@ -5,7 +5,7 @@ show-avatar: false
 ---
 
 ## Research Assistant 
-Benthos and Nekton Ecology Laboratory from Northwestern Biological Research Centre (CIBNOR) from 2012-2015.   
+Nekton and Reef Ecology Laboratory from Northwestern Biological Research Centre (CIBNOR) from 2012-2015.   
 Project:
 * "Effect of ocean acidification on the reefs of the Mexican Pacific, genetic landscape, climate reconstruction and coral growth" CB-CONACYT, La Paz, México.   
 
