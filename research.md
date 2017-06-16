@@ -10,7 +10,7 @@ bigimg:
   - "/img/Bla_54_220616MEB_01.jpg" : "Corallite skeleton of Porites panamensis, Bahía Concepción, BCS. Pedro González"
 ---
 ## Main 
-I’m interested in the studying the relationship between distinct environmental factors and the stability of marine ecosystems using remote sensing as a key tool.
+I’m interested in studying the relationship between distinct environmental factors and the stability of marine ecosystems using remote sensing as a key tool.
 
 ## Ongoing
 My current research is focused on analysing the past to understand how coral reef ecosystems have been able to cope with the environmental variability to which they have been exposed. This might allow us, through numerical models, to predict their future fate.
