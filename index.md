@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Esta es mi página!
+title: ¡Hola, yo soy Pedro!
 subtitle: Biólogo Marino / Ecología de Arrecifes Coralinos / Naturalista
 bigimg: 
  - /img/Porites.JPG : Porites sp. Golfo de California. Israel Sánchez. 
