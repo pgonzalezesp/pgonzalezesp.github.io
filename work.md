@@ -19,6 +19,10 @@ Projects:
 
 ## Teaching Assistant:
 * Geography, Modernity and Globalisation (GEOG 122 201) University of British Columbia, 2017
+* Data wrangling, exploration, and analysis with R (STAT 545A and 547M) University of British Columbia, 2017
+* Genetic, Evolution and Ecology (BIOL 121) University of British Columbia, 2018
+* Vertebrate Structure and Function (BIOL 204) University of British Columbia, 2018
+* Our Changing Environment: Climate And Ecosystems (GEOB 102) University of British Columbia, 2018
 
 ## Teacher (part time):
 * Science Teacher and Lab Assistant at St. Johns private school, La Paz, BCS. 2013-2016.
