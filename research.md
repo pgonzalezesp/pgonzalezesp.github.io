@@ -23,5 +23,7 @@ My current research is focused on analysing the past to understand how coral ree
 ## Programming languages used
  * R
  * Python
- 
+
+## Publications
+ * [Proyección de cambios en la temperatura superficial del mar del Golfo de California y efectos sobre la abundancia y distribución de especies arrecifales](https://doi.org/10.15359/revmar.8-1.2)
 
