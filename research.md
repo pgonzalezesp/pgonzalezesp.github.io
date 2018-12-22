@@ -25,5 +25,6 @@ My current research is focused on analysing the past to understand how coral ree
  * Python
 
 ## Publications
+ * [Evidence of sexual dimorphism in skeletal morphology of a gonochoric reef coral](https://doi.org/10.1098/rsos.171843)
  * [Proyección de cambios en la temperatura superficial del mar del Golfo de California y efectos sobre la abundancia y distribución de especies arrecifales](https://doi.org/10.15359/revmar.8-1.2)
 
