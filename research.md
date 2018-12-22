@@ -16,12 +16,12 @@ I’m interested in studying the relationship between distinct environmental fac
 My current research is focused on analysing the past to understand how coral reef ecosystems have been able to cope with the environmental variability to which they have been exposed. This might allow us, through numerical models, to predict their future fate.
 
 ## Areas of expertise 
- * Remote sensing on coral reefs 
- * Multiple stressors  
- * Sustainability and management
+ * Coral Reef Ecology 
+ * Multiple stressors on marine Ecosystems  
+ * Sustainability and management 
 
 ## Programming languages used
  * R
  * Python
-
+ 
 
