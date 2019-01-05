@@ -3,7 +3,7 @@ layout: page
 title: Publications
 show-avatar: false
 bigimg:  
-  - "/img/Elkhorn-coral_2.jpg" : "Acropora palmata. Bonaire. Beatrice Hudry"
+  - "/img/Giant-Brain-coral.jpg" : "Colpophyllia natans. Bonaire. Beatrice Hudry"
 
 ---
 
