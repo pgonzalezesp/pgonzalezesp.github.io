@@ -1,5 +1,4 @@
 
-## Publications
  * __González-Espinosa PC__, Paz-García DA, Reyes-Bonilla H, Cabral-Tena RA, and Balart EF (2018) [Evidence of sexual dimorphism in skeletal morphology of a gonochoric reef coral](https://doi.org/10.1098/rsos.171843) Royal Society Open Science 5:171843
  * Ayala-Bocos A, Reyes-Bonilla H, Calderón-Aguilera LE, Herrero-Perezrul MD, __González-Espinosa PC__ (2015). [Proyección de cambios en la temperatura superficial del mar del Golfo de California y efectos sobre la abundancia y distribución de especies arrecifales](https://doi.org/10.15359/revmar.8-1.2) Revista Ciencias Marinas Y Costeras, 8(1), 29-40. 
  * Reyes-Bonilla H, Cupul-Magaña AL, Loreto-Viruel RM, Alvarez del Castillo-Cárdenas PA, Vázquez-Vera L, Torrejón-Arellano N,
