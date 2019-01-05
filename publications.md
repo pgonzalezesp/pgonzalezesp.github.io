@@ -3,7 +3,7 @@ layout: page
 title: Publications
 show-avatar: false
 bigimg:  
-  - "/img/Elkhorn-coral.jpg" : "Acropora palmata. Bonaire. Beatrice Hudry"
+  - "/img/Elkhorn-coral_2.jpg" : "Acropora palmata. Bonaire. Beatrice Hudry"
 
 ---
 
