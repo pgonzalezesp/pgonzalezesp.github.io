@@ -23,7 +23,7 @@ Projects:
 * Genetic, Evolution and Ecology (BIOL 121) University of British Columbia, 2018
 * Vertebrate Structure and Function (BIOL 204) University of British Columbia, 2018
 * Our Changing Environment: Climate And Ecosystems (GEOB 102) University of British Columbia, 2018 & 2019
-* Guest lecturer in Our Changing Environment: Climate And Ecosystems (GEOB 102). 2018
+* Guest lecturer in Our Changing Environment: Climate And Ecosystems (GEOB 102) University of British Columbia, 2018
 * Analysing Environmental Problems (GEOG 314) University of British Columbia, 2019
 
 ## Teacher (part time):
