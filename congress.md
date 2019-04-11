@@ -5,6 +5,7 @@ show-avatar: false
 ---
 
 ## National
+ * X Congreso Mexicano de Arrecifes Coralinos, Manzanillo, Colima, México. 2019 "Relación de temperatura y luz para predecir blanqueamiento coralino causado por agua fría".
  * XIV Postgraduate Congress. La Paz B.C.S, México. 2015. “Sexual dimorphism at corallite level of the scleractinian coral _Porites panamensis_ in the Gulf of California”. 
 
 ## International 
