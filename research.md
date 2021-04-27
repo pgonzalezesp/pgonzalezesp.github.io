@@ -16,6 +16,7 @@ I’m interested in studying the relationship between distinct environmental fac
 My current research is focused on analysing the past to understand how coral reef ecosystems have been able to cope with the environmental variability to which they have been exposed. This might allow us, through numerical models, to predict their future fate.
 
 ## Areas of expertise 
+ * Marine Ecology
  * Coral Reef Ecology 
  * Multiple stressors on marine ecosystems  
  * Sustainability and management 
