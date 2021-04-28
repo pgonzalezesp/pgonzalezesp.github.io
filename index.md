@@ -10,7 +10,6 @@ bigimg:
   - "/img/Pavona_gigantea2.JPG" : "Pavona gigantea, Gulf of California. Israel Sanchez"
   - "/img/BCO_43_220616MEB_03_traits.jpg " : "Corallites skeleton of Porites panamensis, Gulf of California. Pedro González" 
 use-site-title: true
-show-avatar: true
 ---
 
 ### The sea is only the embodiment of a supernatural and wonderful existence.   
