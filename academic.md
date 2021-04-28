@@ -9,7 +9,7 @@ bigimg:
 show-avatar: false
 ---
 
-## PhD Geography (2016-2020)
+## PhD Geography (2016-2021)
 [University of British Columbia](https://www.ubc.ca/)
 
 ## MSc in Natural Resources Management
