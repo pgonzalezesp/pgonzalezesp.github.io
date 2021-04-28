@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¡Hola, yo soy Pedro!
-subtitle: Biólogo Marino / Ecólogo de Arrecifes Coralinos / Naturalista
+subtitle: Biólogo Marino | Ecólogo Marino | Naturalista
 bigimg: 
  - /img/Porites.JPG : Porites sp. Golfo de California. Israel Sánchez. 
  - /img/CaboPulmo_team.jpg  : Lutjanus viridis, Cabo Pulmo, BCS. Israel Sánchez. 
