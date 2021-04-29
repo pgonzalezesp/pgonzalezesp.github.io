@@ -18,7 +18,7 @@ My current research is focused on analysing the past to understand how coral ree
 ## Areas of expertise 
  * Marine Ecology
  * Multiple stressors on marine ecosystems  
- * Sustainability and management 
+ * Sustainable management 
  * Multivariate analyses 
 
 ## Tools
