@@ -6,7 +6,7 @@ bigimg:
   - "/img/Giant-Brain-coral.jpg" : "Colpophyllia natans. Bonaire. Beatrice Hudry"
 
 ---
-  * __González-Espinosa PC__, Donner SD (2021) Cloudiness reduces the bleaching response of coral reefs exposed to heat stress. Global Change Biology. (Accepted)
+  * __González-Espinosa PC__, Donner SD (2021) [Cloudiness reduces the bleaching response of coral reefs exposed to heat stress](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15676). Global Change Biology. (Accepted)
   * __González-Espinosa PC__, Donner SD (2020) [Predicting cold-water bleaching in corals: role of temperature, and potential integration of light exposure](https://www.int-res.com/abstracts/meps/v642/p133-146) MEPS 642:133-146
  * __González-Espinosa PC__, Paz-García DA, Reyes-Bonilla H, Cabral-Tena RA, and Balart EF (2018) [Evidence of sexual dimorphism in skeletal morphology of a gonochoric reef coral](https://doi.org/10.1098/rsos.171843) Royal Society Open Science 5:171843
 
