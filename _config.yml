@@ -66,6 +66,7 @@ author:
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
+  google-scholar: https://scholar.google.com/citations?user=VtBbo_IAAAAJ&hl=en
   
 
 # Select which links to show in the footer
@@ -86,6 +87,7 @@ footer-links-active:
   spotify: false
   telephone: false
   github: true
+  google-scholar: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -94,6 +96,7 @@ share-links-active:
   google: false
   linkedin: true
   github: true
+  google-scholar: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
