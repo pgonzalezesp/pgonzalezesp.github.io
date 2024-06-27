@@ -4,7 +4,6 @@ subtitle: Being rewarded for doing what I like!
 show-avatar: false
 ---
 
- * 2016-2020 International PhD fellow of the National Council of Science and Technology CONACYT, México
  * 2016-2017 Graduate Fellowship of the Institute for the Oceans and Fisheries, UBC, Canada.
  * 2016 Faculty of Arts Graduate Award, UBC, Canada.
  * 2015 Congress Fellowship of International Atomic Energy Agency, USA.
